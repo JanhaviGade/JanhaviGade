@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Janhavi Gade 👋
 
-<!--
-**JanhaviGade/JanhaviGade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a B.Tech student in Computer Science and Engineering (CSE), with a strong interest and growing experience in **software development**.
 
-Here are some ideas to get you started:
+💻 I love building meaningful, real-world applications and continuously learning about new technologies. My focus areas include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Full Stack Development** (Web & Mobile)
+- **Object-Oriented Programming (OOP)**
+- **Java, Python, and C/C++**
+- **Android Development**
+- **Data Structures and Algorithms**
+
+🚀 I'm currently exploring:
+- Advanced concepts in **Java and Android**
+- Backend technologies like **Node.js**, **Express**
+- **Database Management** using SQL and NoSQL (MongoDB)
+
+🛠️ Tools & Technologies I use:
+- Visual Studio Code, Git & GitHub, Android Studio
+- HTML, CSS, JavaScript
+- MySQL, Firebase, MongoDB
+- APIs, Postman
+
+📚 I enjoy solving problems, working on innovative projects, and contributing to open-source whenever possible.
+
+🔗 Let’s connect:
+- 📧 Email: [YourEmail@example.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+Thanks for visiting! 😊
