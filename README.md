@@ -24,7 +24,7 @@
 📚 I enjoy solving problems, working on innovative projects, and contributing to open-source whenever possible.
 
 🔗 Let’s connect:
-- 📧 Email: [YourEmail@example.com]
+- 📧 Email: [gadejanhavi65@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
