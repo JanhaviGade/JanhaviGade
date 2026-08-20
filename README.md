@@ -26,7 +26,7 @@
 🔗 Let’s connect:
 - 📧 Email: [gadejanhavi65@gmail.com]
 - Instagram: janhavi._06
-- 🔗 [LinkedIn](linkedin.com/in/janhavi-gade)
+- 🔗 [LinkedIn](www.linkedin.com/in/janhavi-gade-6b6759411)
 
 ---
 
