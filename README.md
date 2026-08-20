@@ -6,7 +6,7 @@
 
 - **Full Stack Development** (Web & Mobile)
 - **Object-Oriented Programming (OOP)**
-- **Java, Python, and C/C++**
+- **Java, Python, and C++**
 - **Android Development**
 - **Data Structures and Algorithms**
 
